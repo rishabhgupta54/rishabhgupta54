@@ -15,7 +15,7 @@ With over 5 years of professional experience, I specialize in creating high-qual
 ## 🛠️ Technology Stack:
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20px" /> PHP
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="20px" /> Laravel
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="20px" /> Laravel
 - <img src="https://laravel-livewire.com/img/logo.svg" width="20px" /> Livewire
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20px" /> Node.js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20px" /> React.js
@@ -24,10 +24,10 @@ With over 5 years of professional experience, I specialize in creating high-qual
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20px" /> Next.js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20px" /> Java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20px" /> Spring Boot
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="20px" /> Payment Gateway Integrations like Stripe
-- <img src="https://raw.githubusercontent.com/Razorpay/razorpay/master/logo.svg" width="20px" /> Razorpay
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" width="20px" /> Payment Gateway Integrations like Stripe
+- <img src="https://avatars.githubusercontent.com/u/7713200?s=200&v=4" width="20px" /> Razorpay
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/paypal/paypal-original.svg" width="20px" /> PayPal
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="20px" /> API Development and Integrations
+- <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/api.svg" width="20px" /> API Development and Integrations
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20px" /> HTML
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20px" /> CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20px" /> JavaScript
