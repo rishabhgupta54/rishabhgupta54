@@ -14,25 +14,25 @@ With over 5 years of professional experience, I specialize in creating high-qual
 
 ## 🛠️ Technology Stack:
 
-- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
-- ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) Laravel
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React.js
-- ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) Vue.js
-- ![Nuxt.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg) Nuxt.js
-- ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) Next.js
-- ![Livewire](https://raw.githubusercontent.com/laravel/laravel/master/public/favicon.ico) Livewire
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
-- ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) Spring Boot
-- ![Stripe](https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg) Payment Gateway Integrations like Stripe
-- ![Razorpay](https://raw.githubusercontent.com/Razorpay/razorpay/master/logo.svg) Razorpay
-- ![PayPal](https://raw.githubusercontent.com/devicons/devicon/master/icons/paypal/paypal-original.svg) PayPal
-- ![API](https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg) API Development and Integrations
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
-- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git
-- ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg) AWS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="10px" /> PHP
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="10px" /> Laravel
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="10px" /> Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="10px" /> React.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="10px" /> Vue.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="10px" /> Nuxt.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="10px" /> Next.js
+- <img src="https://raw.githubusercontent.com/laravel/laravel/master/public/favicon.ico" width="10px" /> Livewire
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="10px" /> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="10px" /> Spring Boot
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="10px" /> Payment Gateway Integrations like Stripe
+- <img src="https://raw.githubusercontent.com/Razorpay/razorpay/master/logo.svg" width="10px" /> Razorpay
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/paypal/paypal-original.svg" width="10px" /> PayPal
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="10px" /> API Development and Integrations
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="10px" /> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="10px" /> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="10px" /> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="10px" /> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="10px" /> AWS
 
 
 🏆 **Achievements:**
@@ -62,10 +62,8 @@ My ultimate goal is to deliver solutions that not only meet your requirements bu
 📞 **Let’s Bring Your Vision to Life:**
 Looking for a developer who is passionate about technology and excellence? Contact me today to discuss how we can turn your ideas into reality!
 
-
 ## 🌐 Explore More:
 
 - **Upwork:** [Rishabh Gupta on Upwork](https://www.upwork.com/freelancers/rishabhgupta54)
 - **Website:** [Rishabh Gupta](https://rishabh-gupta.in/)
 - **Email:** [i@rishabh-gupta.in](mailto:i@rishabh-gupta.in)
-
