@@ -14,25 +14,25 @@ With over 5 years of professional experience, I specialize in creating high-qual
 
 ## 🛠️ Technology Stack:
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="10px" /> PHP
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="10px" /> Laravel
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="10px" /> Node.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="10px" /> React.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="10px" /> Vue.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="10px" /> Nuxt.js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="10px" /> Next.js
-- <img src="https://raw.githubusercontent.com/laravel/laravel/master/public/favicon.ico" width="10px" /> Livewire
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="10px" /> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="10px" /> Spring Boot
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="10px" /> Payment Gateway Integrations like Stripe
-- <img src="https://raw.githubusercontent.com/Razorpay/razorpay/master/logo.svg" width="10px" /> Razorpay
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/paypal/paypal-original.svg" width="10px" /> PayPal
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="10px" /> API Development and Integrations
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="10px" /> HTML
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="10px" /> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="10px" /> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="10px" /> Git
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="10px" /> AWS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20px" /> PHP
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="20px" /> Laravel
+- <img src="https://laravel-livewire.com/img/logo.svg" width="20px" /> Livewire
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20px" /> Node.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20px" /> React.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20px" /> Vue.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="20px" /> Nuxt.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20px" /> Next.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20px" /> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20px" /> Spring Boot
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="20px" /> Payment Gateway Integrations like Stripe
+- <img src="https://raw.githubusercontent.com/Razorpay/razorpay/master/logo.svg" width="20px" /> Razorpay
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/paypal/paypal-original.svg" width="20px" /> PayPal
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="20px" /> API Development and Integrations
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20px" /> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20px" /> CSS
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20px" /> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20px" /> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="20px" /> AWS
 
 
 🏆 **Achievements:**
