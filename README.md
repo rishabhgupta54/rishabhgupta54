@@ -29,7 +29,6 @@ With over 5 years of professional experience, I specialize in creating high-qual
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20px" /> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20px" /> MySQL
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="20px" /> MariaDB
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Oracle_logo.svg" width="20px" /> Oracle 12g
 
 🏆 **Achievements:**
 - Successfully developed a web platform that scaled to serve 1 million users.
