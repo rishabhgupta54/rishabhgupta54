@@ -12,7 +12,7 @@ With over 5 years of professional experience, I specialize in creating high-qual
 - Payment Gateway Integrations
 - API Development and Integration
 
-## 🛠️ Technology Stack:
+🛠️ **Technology Stack:**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20px" /> PHP
 - <img src="https://laravel.com/img/logotype.min.svg" width="20px" /> Laravel
 - <img src="https://laravel-livewire.com/img/logo.svg" width="20px" /> Livewire
@@ -27,6 +27,9 @@ With over 5 years of professional experience, I specialize in creating high-qual
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20px" /> CSS
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20px" /> JavaScript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20px" /> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20px" /> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="20px" /> MariaDB
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Oracle_logo.svg" width="20px" /> Oracle 12g
 
 🏆 **Achievements:**
 - Successfully developed a web platform that scaled to serve 1 million users.
