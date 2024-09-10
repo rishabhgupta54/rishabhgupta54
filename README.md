@@ -35,7 +35,7 @@ With over 5 years of professional experience, I specialize in creating high-qual
 - Delivered numerous projects ahead of schedule with an average client rating of 4.8/5.
 
 💬 **Client Testimonials:**
-- "Rishabh’s expertise in PHP, Laravel, API Integration, and JavaScript helped us revamp our entire web platform, enhancing performance and user experience significantly." - Steven Tsokanos
+- "Rishabh is a great person to work with. He is serious, communicative and dedicated to the work. He has been working on our project for several months and we will continue to keep him on. I would recommend him to prospective employers" - Steven Tsokanos
 - "Delivered a high-quality e-commerce solution that exceeded our expectations. Highly recommend!" - Mian Saifi
 
 🌟 **Professional Attributes:**
