@@ -1,6 +1,6 @@
 # Hi there, I'm Rishabh Gupta 👋
 
-With over 5 years of professional experience, I specialize in creating high-quality, scalable, and secure web applications. My passion is developing robust solutions that precisely meet client needs using a full stack of both front-end and back-end technologies.
+With over 6 years of professional experience, I specialize in creating high-quality, scalable, and secure web applications. My passion is developing robust solutions that precisely meet client needs using a full stack of both front-end and back-end technologies.
 
 📈 **Services I Offer:**
 - Custom Software Development
