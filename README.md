@@ -19,8 +19,6 @@ I’m passionate about building robust solutions that align with client needs, l
 
 **Programming Languages**  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20px" /> Java  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20px" /> Python  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20px" /> Go  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20px" /> PHP  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20px" /> JavaScript  
 
@@ -29,8 +27,6 @@ I’m passionate about building robust solutions that align with client needs, l
 - <img src="https://laravel.com/img/logotype.min.svg" width="20px" /> Laravel  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20px" /> React.js  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20px" /> Vue.js  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="20px" /> Angular  
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="20px" /> FastAPI  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="20px" /> jQuery  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20px" /> Bootstrap  
 
@@ -44,7 +40,7 @@ I’m passionate about building robust solutions that align with client needs, l
 - <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-athena-hv6gsv93ozj2o0gsxdtg6m.png/aws-athena-jan6k55udjsv6va5uwobn.png?_a=DATAg1AAZAA0" width="20px" /> Athena  
 
 **Cloud & DevOps**  
-- <img src="https://icon2.cleanpng.com/20180817/vog/8968d0640f2c4053333ce7334314ef83.webp" width="20px" /> AWS (EC2, Lambda, ECS, S3, RDS, Route 53, SES, IAM, CloudWatch, Step Functions, SageMaker AI, etc.)  
+- <img src="https://icon2.cleanpng.com/20180817/vog/8968d0640f2c4053333ce7334314ef83.webp" width="20px" /> AWS (EC2, Lambda, ECS, S3, RDS, Route 53, SES, IAM, CloudWatch, Step Functions, etc.)  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20px" /> GCP (Cloud Run, GCS, BigQuery, API Gateway, IAM, Secret Manager)  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20px" /> Docker  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="20px" /> Vagrant  
