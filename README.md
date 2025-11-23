@@ -36,18 +36,16 @@ I’m passionate about building robust solutions that align with client needs, l
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20px" /> PostgreSQL  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="20px" /> Oracle DB  
 - <img src="https://cdn-icons-png.flaticon.com/512/2530/2530064.png" width="20px" /> Snowflake  
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglVY3mD3G1o76tB4x-4oH0g5komPM3um28wVpNTFsAE4FPs_GR8T9cfv1TrUBNVsdyeE" width="20px" /> BigQuery  
-- <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-athena-hv6gsv93ozj2o0gsxdtg6m.png/aws-athena-jan6k55udjsv6va5uwobn.png?_a=DATAg1AAZAA0" width="20px" /> Athena  
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQglVY3mD3G1o76tB4x-4oH0g5komPM3um28wVpNTFsAE4FPs_GR8T9cfv1TrUBNVsdyeE" width="20px" /> BigQuery   
 
 **Cloud & DevOps**  
-- <img src="https://icon2.cleanpng.com/20180817/vog/8968d0640f2c4053333ce7334314ef83.webp" width="20px" /> AWS (EC2, Lambda, ECS, S3, RDS, Route 53, SES, IAM, CloudWatch, Step Functions, etc.)  
+- <img src="https://img.icons8.com/?size=256&id=33039" width="20px" /> AWS (EC2, Lambda, ECS, S3, RDS, Route 53, SES, IAM, CloudWatch, Step Functions, etc.)  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20px" /> GCP (Cloud Run, GCS, BigQuery, API Gateway, IAM, Secret Manager)  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20px" /> Docker  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="20px" /> Vagrant  
 
 **Build & Version Control**  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20px" /> Maven  
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWETI_bCoqz3-sxYhHR3zc_4Q2U-2BdG9uYw&s" width="20px" /> Gradle  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20px" /> Git  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20px" /> GitHub  
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="20px" /> GitLab  
